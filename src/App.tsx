@@ -29,13 +29,13 @@ function App() {
             
             {/* Person 2 */}
             <div className="relative">
-              <div className="w-18 h-36 bg-white/95 rounded-t-full shadow-2xl border-2 border-white/60"></div>
-              <div className="w-22 h-22 bg-white/95 rounded-full -mt-2 shadow-2xl border-2 border-white/60"></div>
+              <div className="w-[4.5rem] h-36 bg-white/95 rounded-t-full shadow-2xl border-2 border-white/60"></div>
+              <div className="w-[5.5rem] h-[5.5rem] bg-white/95 rounded-full -mt-2 shadow-2xl border-2 border-white/60"></div>
             </div>
             
             {/* Person 3 */}
             <div className="relative">
-              <div className="w-16 h-30 bg-white/90 rounded-t-full shadow-2xl border-2 border-white/50"></div>
+              <div className="w-16 h-[7.5rem] bg-white/90 rounded-t-full shadow-2xl border-2 border-white/50"></div>
               <div className="w-20 h-20 bg-white/90 rounded-full -mt-2 shadow-2xl border-2 border-white/50"></div>
             </div>
           </div>
